@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>TDCD_FDR_Calculator</AssemblyName>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Authors>National Resource for Translational and Developmental Proteomics</Authors>
+    <Copyright>Copyright 2018 (c) Northwestern University. All rights reserved.</Copyright>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="MathNet.Numerics" Version="4.5.1" />
+  </ItemGroup>
+</Project>
