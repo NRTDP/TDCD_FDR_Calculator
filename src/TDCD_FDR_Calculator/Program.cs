@@ -13,7 +13,7 @@ namespace TDCD_FDR_Calculator
         {
             if (args.Length != 3)
             {
-                Console.WriteLine("Usage: FdrEstimator.exe forwardFilePath decoyFilePath outputFilePath");
+                Console.WriteLine("Usage: TDCD_FDR_Calculator.exe forwardFilePath decoyFilePath outputFilePath");
                 return;
             }
 
