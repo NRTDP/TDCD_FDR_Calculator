@@ -12,7 +12,7 @@ SDK that works with your system:
 
 [Linux](https://www.microsoft.com/net/learn/get-started/linux)
 
-## Example Usage on Windows
+## Example Usage
 After [cloning the github repository locally](https://help.github.com/articles/cloning-a-repository/), 
 you should run the following commands from the TDCD_FDR_CALCULATOR project directory 
 (contains the .csproj file).
